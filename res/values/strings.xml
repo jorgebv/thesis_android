@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="app_name">ThesisPrototype</string>
+    <string name="menu_name">Help</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string-array name="userIDs">
+        <item>Angela</item>
+        <item>Rosendo</item>
+        <item>Daniel</item>
+        <item>Marilyn</item>
+        <item>Nathan</item>
+        <item>Terry</item>
+    </string-array>
+
+    <string name="trust_server_a">Send to Trust Server A</string>
+    <string name="trust_server_b">Send to Trust Server B</string>
+    <string name="trust_server_c">Send to Trust Server C</string>
+    <string name="menu_text">Angela and Rosendo come from Health Record Server A. Daniel and Marilyn come from Health Record Server B. Nathan and Terry come from Health Record Server C.</string>
+
+</resources>
